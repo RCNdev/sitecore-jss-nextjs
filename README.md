@@ -1,2 +1,3 @@
 # sitecore-jss-nextjs
-Temporary fix for @sitecore-jss/sitecore-jss-nextjs
+
+Temporary workaround for @sitecore-jss/sitecore-jss-nextjs
